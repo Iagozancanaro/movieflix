@@ -1,6 +1,6 @@
 # Movie Catalog API
 
-Projeto Java com **Spring Boot** para desenvolvimento de uma **API REST** para controle de cadastro de catálogo de filmes, incluindo autenticação de usuários e gerenciamento de diversas tabelas relacionadas a filmes.
+Projeto de estudos com Java com **Spring Boot** para desenvolvimento de uma **API REST** para controle de cadastro de catálogo de filmes, incluindo autenticação de usuários e gerenciamento de diversas tabelas relacionadas a filmes.
 
 ---
 
